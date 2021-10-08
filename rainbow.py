@@ -1,8 +1,13 @@
 import turtle
-turtle.speed(15)
+
+turtle.speed(0)
 turtle.bgcolor('black')
+
 sc = turtle.Screen()
 sc.title("রংধনু")
+
+
+
 c=0
 x=0
 colors = [
